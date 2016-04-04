@@ -8,12 +8,21 @@ The input consists of a single line containing two integers hh and vv, with mean
 ##Output
 Write a single line containing the minimum possible length of the ladder in centimeters, rounded up to the nearest integer.
 
-##Sample Input 1               ##Sample Output 1
-```								```
-500 70							533
-```								```
+##Sample Input 1               
+```								
+500 70							
+```								
+##Sample Output 1
+```
+533
+```
 
-##Sample Input 2               ##Sample Output 2
-```								```
-1000 10							5759
-```								```
+##Sample Input 2               
+```								
+1000 10							
+```								
+
+##Sample Output 2
+```
+5759
+```
