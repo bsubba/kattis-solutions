@@ -6,9 +6,9 @@ The classical assumption is that a male usually uses a toilet with the seat “u
 
 Now, there are several possible policies that one could use, here are a few:
 
-1.When you leave, always leave the seat up
-2.When you leave, always leave the seat down
-3.When you leave, always leave the seat as you would like to find it
+1. When you leave, always leave the seat up
+2. When you leave, always leave the seat down
+3. When you leave, always leave the seat as you would like to find it
 
 So, a person may have to adjust the seat prior to using the toilet and, depending on policy, may need to adjust it before leaving.
 
