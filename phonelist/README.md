@@ -19,8 +19,8 @@ For each test case, output “YES” if the list is consistent, or “NO” othe
 
 ```
 Sample Input 1						Sample Output 1
-2                    					NO
-3					 			YES
+2                    				NO
+3					 				YES
 911
 97625999
 91125426
